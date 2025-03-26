@@ -18,3 +18,9 @@ Features
 ### Frontend: HTML, CSS, JavaScript, Bootstrap
 
 ### API: OpenWeatherMap API (https://openweathermap.org/api)
+
+## Application Screenshots
+
+
+![Alt text](Screenshot 2025-03-26 125700.png)
+
