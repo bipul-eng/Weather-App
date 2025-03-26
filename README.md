@@ -22,5 +22,8 @@ Features
 ## Application Screenshots
 
 
-![Alt text](Screenshot 2025-03-26 125700.png)
+![Alt text](Screenshot%202025-03-26%20125700.png)
+
+![Alt text](Screenshot%202025-03-26%20125717.png)
+
 
